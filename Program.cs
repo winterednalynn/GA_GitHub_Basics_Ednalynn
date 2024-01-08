@@ -10,6 +10,7 @@ namespace GA_GitHub_Basics_Ednalynn
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Professor");
         }
     }
 }
